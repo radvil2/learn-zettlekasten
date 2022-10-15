@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettlekasten",
+  "livePreview": true,
+  "tabSize": 4,
+  "vimMode": false,
+  "promptDelete": false,
+  "showLineNumber": false
+}

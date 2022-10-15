@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ca93876641ec2d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd878c3e38783df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0294ae1a6b35d8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3260ee87ffc2504",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc45d7b3affc9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159acdfc5df32e60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92cbfd2119a4aabb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5125b07dccc4ade7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bb1903754c78a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "986402d145a4dff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b25995d53c77faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/TypeScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e554c46d3dbd2a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/TypeScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7ac99ab4ad20464",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4952ab23cacaceff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/TypeScript.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0294ae1a6b35d8d8",
+  "lastOpenFiles": [
+    "Notes/Zettlekasten Getting Started.md",
+    "Templates/Note - Core Zettle idea.md",
+    "Notes/TypeScript.md",
+    "Templates/MoC - Map of Content.md",
+    "Notes/Angular.md",
+    "Notes/🎲 Random Braindeads.md",
+    "(Notes/TypeScript.md",
+    "Notes/📌 My Dev Roadmap.md",
+    "TypeScript.md",
+    "Notes/Front End Roadmap - Full.md"
+  ]
+}
